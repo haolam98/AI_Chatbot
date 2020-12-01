@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/lamtuhao/PycharmProjects/AIchatBot/model.tflearn"
+all_model_checkpoint_paths: "/Users/lamtuhao/PycharmProjects/AIchatBot/model.tflearn"
